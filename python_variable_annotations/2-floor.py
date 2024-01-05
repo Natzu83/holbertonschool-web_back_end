@@ -1,3 +1,10 @@
+#!/usr/bin/env python3
+"""
+Function 'floor' , uses the Python type hints to specify that
+'floor' takes in a float, and returns an int.
+"""
+
+
 def floor(n: float) -> int:
     """
     Assuming that 'n' is a float,
